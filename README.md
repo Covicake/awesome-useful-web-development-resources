@@ -14,3 +14,8 @@
 * FrontEnd
     * React
         * [React-bounds](http://casesandberg.github.io/react-bounds/)
+* BackEnd
+    * Nodejs
+        * ORMs
+            * [TypeORM](typeorm.io/)
+            Easy way to connect a nodeapp to a database with a clean and easy design.
