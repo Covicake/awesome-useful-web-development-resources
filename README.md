@@ -21,4 +21,4 @@
         * [JSONWebToken](https://github.com/auth0/node-jsonwebtoken) Easy way to create a token based auth system in you api.
             * [Express-jwt](https://github.com/auth0/express-jwt) Express middleware to handle authorization with tokens.
         * ORMs
-            * [TypeORM](typeorm.io/) Easy way to connect a nodeapp to a database with a clean and easy design.
+            * [TypeORM](typeorm.io/) Easy way to connect a node app to a database with a clean and easy design.
