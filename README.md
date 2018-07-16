@@ -3,7 +3,7 @@
 * Methodologies
     * [Scrum](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
     
-# Concepts
+# Concepts and tutorials
 * CSS
     * [Responsive Design](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
 * API
