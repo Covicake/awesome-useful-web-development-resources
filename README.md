@@ -12,6 +12,7 @@
 
 # Libraries
 * FrontEnd
+    * [Markdown editor](https://simplemde.com)
     * React
         * [React-bounds](http://casesandberg.github.io/react-bounds/)
 * BackEnd
