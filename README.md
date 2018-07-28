@@ -9,6 +9,8 @@
 * API
     * [Security pt1](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-1/)
     * [Security pt2](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-2/)
+* Docker
+    * [Dev.to how-to-use post](https://dev.to/django_stars/what-is-docker-and-how-to-use-it-with-python-tutorial-87a)
 
 # Libraries
 * FrontEnd
